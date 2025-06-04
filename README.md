@@ -1,5 +1,5 @@
 # Veri-Bilimi-Bitirme-Projesi
-# İnme (Stroke) Tahmin Projesi
+# Proje Adı : İnme (Stroke) Tahmin Projesi
 
 ## 📌 Proje Özeti
 
